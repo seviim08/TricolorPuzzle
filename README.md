@@ -1,6 +1,6 @@
 # Tricoloring Puzzle
 
-Dieses Projekt ist im Rahmen des Bachelormoduls "Modellierung" entstanden. Ziel war es, die Architektur Model-View-Controller (MVC) an einer kleinen Swing-Anwendung praktisch umzusetzen.
+Dieses Projekt ist im 7. Bachelorsemester im Modul "Modellierung" entstanden. Ziel war es, die Architektur Model-View-Controller (MVC) an einer kleinen Swing-Anwendung praktisch umzusetzen.
 
 ## Das Puzzle
 
